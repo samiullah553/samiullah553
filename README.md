@@ -1,5 +1,5 @@
 - 👋 Hi, I’m samiullah
-- 👀 I’m interested in network automation and Devops technologies.
+- 👀 I’m interested in Network Automation and Devops technologies.
 - 🌱 I’m currently learning Devops and python scripting.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via email: sameullah553@gmail.com(+923038363553)
